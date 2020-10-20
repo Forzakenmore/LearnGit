@@ -1,2 +1,3 @@
 git is a free software
-
+git is a distributed version control software.
+git is now accessible with Rstudio
